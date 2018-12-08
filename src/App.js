@@ -10,19 +10,19 @@ import hotel_1 from './img/hotel_1.jpg';
 import hotel_2 from './img/hotel_1.jpg';
 import hotel_3 from './img/hotel_1.jpg';
 import hotel_4 from './img/hotel_1.jpg';
-import RevSlider, { Slide, Caption } from 'react-rev-slider';
+import RevSlider, {Slide, Caption} from 'react-rev-slider';
 // import Carousel from 'nuka-carousel';
 import $ from 'jquery';
 
 
 const config = {
     arrows: false,
-    delay:9000,
-    startwidth:1170,
-    startheight:500,
-    hideThumbs:10,
-    fullWidth:"on",
-    forceFullWidth:"on"
+    delay: 9000,
+    startwidth: 1170,
+    startheight: 500,
+    hideThumbs: 10,
+    fullWidth: "on",
+    forceFullWidth: "on"
 };
 
 class App extends Component {
@@ -147,53 +147,64 @@ class App extends Component {
                     {/* Ref: https://reactjsexample.com/a-pure-reactjs-carousel-component */}
 
                     <RevSlider config={config}>
-    <Slide
-        src="https://i.ytimg.com/vi/dFnvYtPePRA/maxresdefault.jpg"
-        alt="slidebg1"
-        data-bgfit="cover"
-        data-bgposition="left top"
-        data-bgrepeat="no-repeat"
-        slideProperties={{
-            'data-transition': "fade",
-            'data-slotamount': "7",
-            'data-masterspeed': "1500"
-        }}
-    >   
-        <Caption
-            class="tp-caption skewfromrightshort fadeout"
-            data-x="85"
-            data-y="224"
-            data-speed="500"
-            data-start="1200"
-            data-easing="Power4.easeOut"
-        >
-            This is a caption
-        </Caption>
-    </Slide>
-    <Slide
-        src="https://i.ytimg.com/vi/0xe4H666drk/maxresdefault.jpg"
-        alt="slidebg1"
-        data-bgfit="cover"
-        data-bgposition="left top"
-        data-bgrepeat="no-repeat"
-        slideProperties={{
-            'data-transition': "fade",
-            'data-slotamount': "7",
-            'data-masterspeed': "1500"
-        }}
-    >   
-        <Caption
-            class="tp-caption skewfromrightshort fadeout"
-            data-x="85"
-            data-y="224"
-            data-speed="500"
-            data-start="1200"
-            data-easing="Power4.easeOut"
-        >
-            This is a caption
-        </Caption>
-    </Slide>
-</RevSlider>
+                        <Slide
+                            src="https://webgradients.com/public/webgradients_png/085%20October%20Silence.png"
+                            alt="slidebg1"
+                            data-bgfit="cover"
+                            data-bgposition="left top"
+                            data-bgrepeat="no-repeat"
+                            slideProperties={{
+                                'data-transition': "fade",
+                                'data-slotamount': "7",
+                                'data-masterspeed': "1500"
+                            }}
+
+                        >
+                            <Caption
+                                class="tp-caption skewfromrightshort fadeout"
+                                data-x="-150"
+                                data-y="150"
+                                data-speed="500"
+                                data-start="1200"
+                                data-easing="Power4.easeOut"
+
+                            >
+                                <div className="slider-content">
+                                    <div className="row">
+                                        <div className="col-md-2">
+                                            <h1>Header Goes Here</h1>
+                                        </div>
+                                        <div className="col-md-10">
+                                            <img src="https://images.vexels.com/media/users/3/149479/isolated/preview/ca8b29b4c9eb4b79c0247e168683d470-apple-ipad-tablet-mockup-by-vexels.png" alt=""/>
+                                        </div>
+                                    </div>
+                                </div>
+                            </Caption>
+                        </Slide>
+                        <Slide
+                            src="https://webgradients.com/public/webgradients_png/088%20Over%20Sun.png"
+                            alt="slidebg1"
+                            data-bgfit="cover"
+                            data-bgposition="left top"
+                            data-bgrepeat="no-repeat"
+                            slideProperties={{
+                                'data-transition': "fade",
+                                'data-slotamount': "7",
+                                'data-masterspeed': "1500"
+                            }}
+                        >
+                            <Caption
+                                class="tp-caption skewfromrightshort fadeout"
+                                data-x="85"
+                                data-y="224"
+                                data-speed="500"
+                                data-start="1200"
+                                data-easing="Power4.easeOut"
+                            >
+                                This is a caption
+                            </Caption>
+                        </Slide>
+                    </RevSlider>
 
 
                     <div className="container-fluid margin_30_95 pl-lg-5 pr-lg-5">

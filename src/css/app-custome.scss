@@ -1,0 +1,23 @@
+#layerslider {
+  width: 100%;
+  height: 750px;
+
+  .slide_typo {
+    top: 47%;
+    left: 50%;
+  }
+  .slide_typo_2{
+    top:55%; left:50%;
+  }
+  .rounded{
+    top:65%; left:50%;white-space: nowrap;
+  }
+}
+button:focus {
+  outline: none;
+}
+
+.tparrows {
+  display: none;
+}
+

@@ -17,7 +17,12 @@ button:focus {
   outline: none;
 }
 
-.tparrows {
-  display: none;
+.tp-caption {
+  z-index: 1;
+  white-space: nowrap;
+  width: 100%;
+  text-align: right;
+  left: 0 !important;
+  top: 25px !important;
 }
 

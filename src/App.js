@@ -160,50 +160,24 @@ class App extends Component {
                             }}
 
                         >
-                            <Caption
-                                class="tp-caption skewfromrightshort fadeout"
-                                data-x="-150"
-                                data-y="150"
-                                data-speed="500"
-                                data-start="1200"
-                                data-easing="Power4.easeOut"
 
+
+                            <Caption class="tp-caption skewfromrightshort fadeout"
+                                     data-x="0"
+                                     data-y="0"
+                                     data-speed="500"
+                                     data-start="1200"
+                                     data-easing="Power4.easeOut"
                             >
-                                <div className="slider-content">
-                                    <div className="row">
-                                        <div className="col-md-2">
-                                            <h1>Header Goes Here</h1>
-                                        </div>
-                                        <div className="col-md-10">
-                                            <img src="https://images.vexels.com/media/users/3/149479/isolated/preview/ca8b29b4c9eb4b79c0247e168683d470-apple-ipad-tablet-mockup-by-vexels.png" alt=""/>
-                                        </div>
-                                    </div>
-                                </div>
+                                <img className="tab-img"
+                                    src="https://images.vexels.com/media/users/3/149479/isolated/preview/ca8b29b4c9eb4b79c0247e168683d470-apple-ipad-tablet-mockup-by-vexels.png"
+                                    alt="fsd"/>
                             </Caption>
+
+
                         </Slide>
-                        <Slide
-                            src="https://webgradients.com/public/webgradients_png/088%20Over%20Sun.png"
-                            alt="slidebg1"
-                            data-bgfit="cover"
-                            data-bgposition="left top"
-                            data-bgrepeat="no-repeat"
-                            slideProperties={{
-                                'data-transition': "fade",
-                                'data-slotamount': "7",
-                                'data-masterspeed': "1500"
-                            }}
-                        >
-                            <Caption
-                                class="tp-caption skewfromrightshort fadeout"
-                                data-x="85"
-                                data-y="224"
-                                data-speed="500"
-                                data-start="1200"
-                                data-easing="Power4.easeOut"
-                            >
-                                This is a caption
-                            </Caption>
-                        </Slide>
+
+
                     </RevSlider>
 
 

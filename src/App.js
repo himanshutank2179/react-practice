@@ -6,6 +6,8 @@ import './css/app-custome.scss';
 import slide_1 from './img/home_slider/slide_1.jpg';
 import slide_2 from './img/home_slider/slide_2.jpg';
 import slide_3 from './img/home_slider/slide_3.jpg';
+import first_slider_img from './img/home_slider/first_slider_img.png';
+
 import hotel_1 from './img/hotel_1.jpg';
 import hotel_2 from './img/hotel_1.jpg';
 import hotel_3 from './img/hotel_1.jpg';
@@ -161,8 +163,18 @@ class App extends Component {
 
                         >
 
+                            <Caption class="tp-caption skewfromrightshort fadeout banner-main-header"
+                                     data-x="0"
+                                     data-y="0"
+                                     data-speed="500"
+                                     data-start="1200"
+                                     data-easing="Power4.easeOut"
+                            >
+                                <h2 className="bheader">Vytech Enterprise</h2>
+                            </Caption>
 
-                            <Caption class="tp-caption skewfromrightshort fadeout"
+
+                            <Caption class="tp-caption skewfromrightshort fadeout banner-image"
                                      data-x="0"
                                      data-y="0"
                                      data-speed="500"
@@ -170,8 +182,8 @@ class App extends Component {
                                      data-easing="Power4.easeOut"
                             >
                                 <img className="tab-img"
-                                    src="https://images.vexels.com/media/users/3/149479/isolated/preview/ca8b29b4c9eb4b79c0247e168683d470-apple-ipad-tablet-mockup-by-vexels.png"
-                                    alt="fsd"/>
+                                     src={first_slider_img}
+                                     alt="fsd"/>
                             </Caption>
 
 

@@ -2,15 +2,154 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffa432c6-208d-420d-8a5a-07dd7ff8b0d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicons/android-icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicons/android-icon-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicons/android-icon-36x36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicons/android-icon-48x48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicons/android-icon-72x72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicons/android-icon-96x96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicons/apple-icon-114x114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicons/apple-icon-120x120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicons/apple-icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicons/apple-icon-152x152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicons/apple-icon-180x180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicons/apple-icon-57x57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicons/apple-icon-60x60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicons/apple-icon-72x72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicons/apple-icon-76x76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicons/apple-icon-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicons/apple-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicons/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicons/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicons/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicons/favicon-96x96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicons/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicons/ms-icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicons/ms-icon-150x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicons/ms-icon-310x310.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicons/ms-icon-70x70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/automated-sms-marketing/AutoSmsMaretingFeatureDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/barber/Barber.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/beauty-salon/Beautysalon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/beauty-salon/beautysalon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/calendar-feature-details/CalendarFeatureDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/Alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/BigHeader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/Feature.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/FeatureDetailLeft.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/FeatureDetailRight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/MFeatureDetailLeft.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/MFeatureDetailRight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/SmallHeader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/Spinner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/spinner.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contact/Contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/customer-management-feature-details/CustomerFeatureDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/layout/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/layout/Landing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/layout/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/not-found/NotFound.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/notification-feature-details/NotificationFeatureDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pos-feature-details/PosFeatureDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/privacy-policy/PrivacyPolicy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sales-report-feature-details/SalesReportFeatureDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/skin-care/SkinCare.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/spa-and-massage/SpaMassage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/spa-and-massage/spa-and-massage.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/support/Support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/terms-and-conditions/TermsAndConditions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/contact.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/feature-details.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/landing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Accept_mixed_payment_mode_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Apply_Coupon_Right_From_Checkout_Screen_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Appointment_Cancel_Text SMS_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Appointment_Cancel_Text_SMS_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Appointment_Color_Selection.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Appointment_History_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Appointment_Option_menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Calendar_Configuration.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Checkout_Details_Print_Receipt_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Customer_Information_1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Customer_Noted_Mobie_frame.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Dashboard_potrait_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Email_Invoice_5.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Invoice_SMS_6.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/LAN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Most_Sold_Services_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Multiple_Service_Provider_Selection.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Multiple_Service_Provider_Selection_old.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/New_Appointment_and_Reschedule_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Notes.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Notes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Notification_change.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Quick_Checkout_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Reminder_Email.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Reminder_Text_SMS_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Run_personalized_SMS_campaign_1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Type_Offer_SMS_text_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/USB.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Wifi.jpe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Working_Hours.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/barber.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/beuty-salon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/contact_banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/customer info banner.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/first_slider_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/oneplus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/pos_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/report_banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/second_banner_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/skin-care.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/spa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/tab.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/who can use/barbar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/who can use/beauty-min.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/who can use/skin_care-min.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/who can use/spa-min.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicons/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicons/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/app-custome.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/app-custome.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/home_slider/slide_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/home_slider/slide_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/home_slider/slide_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/home_slider/slide_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/home_slider/slide_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/home_slider/slide_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/logo_2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/logo_2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/logo_sticky.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/logo_sticky.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/logo_sticky_2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/logo_sticky_2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/_mixin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/_mixin.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-150414848">
@@ -69,26 +208,100 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="819601858">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="62" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="9" />
+          <entry key="project.open.time.13" value="5" />
+          <entry key="project.open.time.14" value="4" />
+          <entry key="project.open.time.15" value="4" />
+          <entry key="project.open.time.16" value="6" />
+          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.18" value="8" />
+          <entry key="project.open.time.19" value="2" />
+          <entry key="project.open.time.2" value="9" />
+          <entry key="project.open.time.21" value="3" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.3" value="4" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="65" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="ESLintLanguageService" value="54" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="PNG" value="3" />
+          <entry key="css" value="6" />
+          <entry key="gif" value="1" />
+          <entry key="html" value="4" />
+          <entry key="ico" value="2" />
+          <entry key="jpg" value="3" />
+          <entry key="js" value="204" />
+          <entry key="json" value="4" />
+          <entry key="png" value="12" />
+          <entry key="scss" value="38" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="6" />
+          <entry key="HTML" value="4" />
+          <entry key="Image" value="21" />
+          <entry key="JSON" value="4" />
+          <entry key="JavaScript" value="204" />
+          <entry key="SCSS" value="38" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="41" />
+          <entry key="html" value="78" />
+          <entry key="js" value="9252" />
+          <entry key="scss" value="1489" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="41" />
+          <entry key="HTML" value="78" />
+          <entry key="JavaScript" value="9252" />
+          <entry key="SCSS" value="1489" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/App.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4077">
-              <caret line="189" column="32" lean-forward="true" selection-start-line="189" selection-start-column="32" selection-end-line="189" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="350">
+              <caret line="85" column="28" selection-start-line="85" selection-start-column="28" selection-end-line="85" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/react-rev-slider/lib/ReactRevSlider.js">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/layout/Navbar.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2646">
-              <caret line="98" column="21" selection-start-line="98" selection-start-column="14" selection-end-line="98" selection-end-column="21" />
+            <state relative-caret-position="270">
+              <caret line="110" lean-forward="true" selection-start-line="110" selection-end-line="110" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+                <element signature="n#Navbar#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -96,371 +309,54 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/css/app-custome.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="891">
-              <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sass/_mixin.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6750">
-              <caret line="250" column="14" selection-start-line="250" selection-start-column="7" selection-end-line="250" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sass/_variables.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1026">
-              <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sass/style.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5859">
-              <caret line="390" column="8" selection-start-line="390" selection-start-column="8" selection-end-line="390" selection-end-column="46" />
-              <folding>
-                <element signature="e#1127#1160#0" />
-                <element signature="e#1181#1213#0" />
-                <element signature="e#1234#1266#0" />
-                <element signature="e#1291#1669#0" />
-                <element signature="e#1718#1861#0" />
-                <element signature="e#1899#1983#0" />
-                <element signature="e#2016#3022#0" />
-                <element signature="e#3050#3304#0" />
-                <element signature="e#3326#3610#0" />
-                <element signature="e#3686#3765#0" />
-                <element signature="e#3863#3922#0" />
-                <element signature="e#3932#4048#0" />
-                <element signature="e#4341#4374#0" />
-                <element signature="e#4381#4431#0" />
-                <element signature="e#4628#4660#0" />
-                <element signature="e#4671#4695#0" />
-                <element signature="e#4708#4749#0" />
-                <element signature="e#4766#4873#0" />
-                <element signature="e#5692#5718#0" />
-                <element signature="e#5725#5756#0" />
-                <element signature="e#5789#5815#0" />
-                <element signature="e#5822#5853#0" />
-                <element signature="e#5884#5910#0" />
-                <element signature="e#5917#5948#0" />
-                <element signature="e#5976#6002#0" />
-                <element signature="e#6009#6040#0" />
-                <element signature="e#7476#7674#0" />
-                <element signature="e#7783#7853#0" />
-                <element signature="e#7858#7928#0" />
-                <element signature="e#7932#8048#0" />
-                <element signature="e#8074#8241#0" />
-                <element signature="e#8332#8429#0" />
-                <element signature="e#8433#8504#0" />
-                <element signature="e#9404#9641#0" />
-                <element signature="e#9652#9705#0" />
-                <element signature="e#9717#9763#0" />
-                <element signature="e#9775#9966#0" />
-                <element signature="e#10582#10605#0" />
-                <element signature="e#10615#10716#0" />
-                <element signature="e#11406#11441#0" />
-                <element signature="e#11452#11790#0" />
-                <element signature="e#11900#11931#0" />
-                <element signature="e#11936#13925#0" />
-                <element signature="e#14434#14655#0" />
-                <element signature="e#14660#15262#0" />
-                <element signature="e#15448#15615#0" />
-                <element signature="e#15779#15948#0" />
-                <element signature="e#15958#16127#0" />
-                <element signature="e#16138#16307#0" />
-                <element signature="e#16323#16492#0" />
-                <element signature="e#16509#16750#0" />
-                <element signature="e#16768#17010#0" />
-                <element signature="e#17033#17280#0" />
-                <element signature="e#17293#17462#0" />
-                <element signature="e#17473#17653#0" />
-                <element signature="e#17664#18261#0" />
-                <element signature="e#18276#18560#0" />
-                <element signature="e#18606#18627#0" />
-                <element signature="e#18635#18692#0" />
-                <element signature="e#19023#19142#0" />
-                <element signature="e#19147#19819#0" />
-                <element signature="e#19847#19975#0" />
-                <element signature="e#20029#20055#0" />
-                <element signature="e#20065#20162#0" />
-                <element signature="e#20167#20210#0" />
-                <element signature="e#20224#20250#0" />
-                <element signature="e#20272#20481#0" />
-                <element signature="e#20504#20861#0" />
-                <element signature="e#20935#20954#0" />
-                <element signature="e#20959#21272#0" />
-                <element signature="e#21350#21459#0" />
-                <element signature="e#21665#22010#0" />
-                <element signature="e#22236#22374#0" />
-                <element signature="e#22396#22532#0" />
-                <element signature="e#22541#22955#0" />
-                <element signature="e#28521#28567#0" />
-                <element signature="e#30267#30302#0" />
-                <element signature="e#30314#30810#0" />
-                <element signature="e#34163#35639#0" />
-                <element signature="e#36173#36777#0" />
-                <element signature="e#37075#37204#0" />
-                <element signature="e#37220#37244#0" />
-                <element signature="e#37456#37636#0" />
-                <element signature="e#37647#38201#0" />
-                <element signature="e#38240#38903#0" />
-                <element signature="e#39018#39037#0" />
-                <element signature="e#39053#39289#0" />
-                <element signature="e#39312#39804#0" />
-                <element signature="e#39984#40038#0" />
-                <element signature="e#40046#40336#0" />
-                <element signature="e#40345#40366#0" />
-                <element signature="e#40390#40432#0" />
-                <element signature="e#40446#40510#0" />
-                <element signature="e#40514#40845#0" />
-                <element signature="e#40868#41297#0" />
-                <element signature="e#41307#41473#0" />
-                <element signature="e#41485#41882#0" />
-                <element signature="e#41990#42067#0" />
-                <element signature="e#42071#42390#0" />
-                <element signature="e#42465#43116#0" />
-                <element signature="e#43265#43572#0" />
-                <element signature="e#43580#43695#0" />
-                <element signature="e#44474#44506#0" />
-                <element signature="e#44511#44545#0" />
-                <element signature="e#44647#44669#0" />
-                <element signature="e#45695#45741#0" />
-                <element signature="e#45750#46537#0" />
-                <element signature="e#46542#46636#0" />
-                <element signature="e#46646#46781#0" />
-                <element signature="e#46786#47170#0" />
-                <element signature="e#47234#47670#0" />
-                <element signature="e#47679#48315#0" />
-                <element signature="e#48336#48373#0" />
-                <element signature="e#48856#48951#0" />
-                <element signature="e#48955#49028#0" />
-                <element signature="e#49033#49064#0" />
-                <element signature="e#49116#49143#0" />
-                <element signature="e#49151#49652#0" />
-                <element signature="e#50347#50351#0" />
-                <element signature="e#50356#50689#0" />
-                <element signature="e#50709#50859#0" />
-                <element signature="e#50866#51119#0" />
-                <element signature="e#51324#51428#0" />
-                <element signature="e#51440#51952#0" />
-                <element signature="e#51961#53163#0" />
-                <element signature="e#53174#53252#0" />
-                <element signature="e#53257#53486#0" />
-                <element signature="e#53505#53549#0" />
-                <element signature="e#53585#53608#0" />
-                <element signature="e#53612#53637#0" />
-                <element signature="e#53835#54347#0" />
-                <element signature="e#54356#55986#0" />
-                <element signature="e#55997#56265#0" />
-                <element signature="e#56273#56341#0" />
-                <element signature="e#56346#56605#0" />
-                <element signature="e#56636#57022#0" />
-                <element signature="e#57137#57246#0" />
-                <element signature="e#57359#57565#0" />
-                <element signature="e#57573#58105#0" />
-                <element signature="e#58243#58341#0" />
-                <element signature="e#58483#58699#0" />
-                <element signature="e#58725#58865#0" />
-                <element signature="e#58873#59084#0" />
-                <element signature="e#59248#59302#0" />
-                <element signature="e#59307#59363#0" />
-                <element signature="e#59367#59406#0" />
-                <element signature="e#59417#59441#0" />
-                <element signature="e#59592#59647#0" />
-                <element signature="e#59652#60019#0" />
-                <element signature="e#60041#60079#0" />
-                <element signature="e#60088#60278#0" />
-                <element signature="e#60390#60421#0" />
-                <element signature="e#60426#60457#0" />
-                <element signature="e#60462#60493#0" />
-                <element signature="e#60698#60725#0" />
-                <element signature="e#60734#60817#0" />
-                <element signature="e#60822#60886#0" />
-                <element signature="e#60922#60949#0" />
-                <element signature="e#60965#60999#0" />
-                <element signature="e#61013#61150#0" />
-                <element signature="e#61163#61433#0" />
-                <element signature="e#61448#61571#0" />
-                <element signature="e#61583#61674#0" />
-                <element signature="e#61846#62171#0" />
-                <element signature="e#62176#62232#0" />
-                <element signature="e#62237#62330#0" />
-                <element signature="e#62339#62977#0" />
-                <element signature="e#62999#63114#0" />
-                <element signature="e#63123#63144#0" />
-                <element signature="e#63161#63436#0" />
-                <element signature="e#63460#63502#0" />
-                <element signature="e#63524#63674#0" />
-                <element signature="e#63688#64058#0" />
-                <element signature="e#66081#66105#0" />
-                <element signature="e#66173#66194#0" />
-                <element signature="e#66230#66294#0" />
-                <element signature="e#66335#66359#0" />
-                <element signature="e#66396#66438#0" />
-                <element signature="e#66481#66595#0" />
-                <element signature="e#66653#66724#0" />
-                <element signature="e#66760#66843#0" />
-                <element signature="e#66983#67086#0" />
-                <element signature="e#67143#67176#0" />
-                <element signature="e#67185#67218#0" />
-                <element signature="e#67227#67260#0" />
-                <element signature="e#67265#67307#0" />
-                <element signature="e#67674#67892#0" />
-                <element signature="e#67900#68611#0" />
-                <element signature="e#68802#68930#0" />
-                <element signature="e#69197#69265#0" />
-                <element signature="e#69302#69451#0" />
-                <element signature="e#69464#69535#0" />
-                <element signature="e#69546#69631#0" />
-                <element signature="e#69644#69715#0" />
-                <element signature="e#69921#69995#0" />
-                <element signature="e#70013#70081#0" />
-                <element signature="e#70094#70168#0" />
-                <element signature="e#70183#70257#0" />
-                <element signature="e#70275#70349#0" />
-                <element signature="e#70662#70721#0" />
-                <element signature="e#70734#70946#0" />
-                <element signature="e#71605#71626#0" />
-                <element signature="e#71726#71895#0" />
-                <element signature="e#72257#72318#0" />
-                <element signature="e#72323#72431#0" />
-                <element signature="e#72436#72507#0" />
-                <element signature="e#72514#72705#0" />
-                <element signature="e#72714#72984#0" />
-                <element signature="e#73371#73395#0" />
-                <element signature="e#73667#73688#0" />
-                <element signature="e#74792#74832#0" />
-                <element signature="e#74838#74879#0" />
-                <element signature="e#75120#75586#0" />
-                <element signature="e#75927#76160#0" />
-                <element signature="e#76164#76247#0" />
-                <element signature="e#76265#76300#0" />
-                <element signature="e#76387#76535#0" />
-                <element signature="e#76558#76874#0" />
-                <element signature="e#77061#77117#0" />
-                <element signature="e#77188#78523#0" />
-                <element signature="e#78854#78878#0" />
-                <element signature="e#79135#79170#0" />
-                <element signature="e#79198#79257#0" />
-                <element signature="e#79279#79309#0" />
-                <element signature="e#79331#79560#0" />
-                <element signature="e#79581#79726#0" />
-                <element signature="e#79770#79793#0" />
-                <element signature="e#79837#79864#0" />
-                <element signature="e#79908#79932#0" />
-                <element signature="e#79976#80002#0" />
-                <element signature="e#80015#80050#0" />
-                <element signature="e#80186#80221#0" />
-                <element signature="e#80562#80586#0" />
-                <element signature="e#80697#80756#0" />
-                <element signature="e#80919#81275#0" />
-                <element signature="e#81279#81373#0" />
-                <element signature="e#81664#81681#0" />
-                <element signature="e#81766#81785#0" />
-                <element signature="e#81789#81850#0" />
-                <element signature="e#81892#81929#0" />
-                <element signature="e#81937#81961#0" />
-                <element signature="e#81995#82125#0" />
-                <element signature="e#82243#82294#0" />
-                <element signature="e#82327#82390#0" />
-                <element signature="e#82406#82432#0" />
-                <element signature="e#82561#83945#0" />
-                <element signature="e#83980#84059#0" />
-                <element signature="e#84070#84121#0" />
-                <element signature="e#84135#84235#0" />
-                <element signature="e#84252#84352#0" />
-                <element signature="e#84640#85184#0" />
-                <element signature="e#85554#85600#0" />
-                <element signature="e#85604#85824#0" />
-                <element signature="e#85829#85860#0" />
-                <element signature="e#85885#86395#0" />
-                <element signature="e#86459#86675#0" />
-                <element signature="e#87435#87604#0" />
-                <element signature="e#87834#87865#0" />
-                <element signature="e#87869#87958#0" />
-                <element signature="e#87998#88279#0" />
-                <element signature="e#88288#88309#0" />
-                <element signature="e#88410#89168#0" />
-                <element signature="e#90279#90327#0" />
-                <element signature="e#90348#90387#0" />
-                <element signature="e#90409#90772#0" />
-                <element signature="e#90783#90968#0" />
-                <element signature="e#90982#91143#0" />
-                <element signature="e#91169#91262#0" />
-                <element signature="e#91273#91348#0" />
-                <element signature="e#91359#91636#0" />
-                <element signature="e#91668#92238#0" />
-                <element signature="e#92249#92775#0" />
-                <element signature="e#92870#92894#0" />
-                <element signature="e#92904#92949#0" />
-                <element signature="e#93236#93409#0" />
-                <element signature="e#93419#93453#0" />
-                <element signature="e#93514#93726#0" />
-                <element signature="e#93739#93764#0" />
-                <element signature="e#93782#93987#0" />
-                <element signature="e#94160#94396#0" />
-                <element signature="e#94476#94729#0" />
-                <element signature="e#96778#96894#0" />
-                <element signature="e#96912#97028#0" />
-                <element signature="e#97336#97382#0" />
-                <element signature="e#97388#97430#0" />
-                <element signature="e#97437#97482#0" />
-                <element signature="e#97524#97570#0" />
-                <element signature="e#97576#97618#0" />
-                <element signature="e#97625#97670#0" />
-                <element signature="e#97699#97717#0" />
-                <element signature="e#97722#97740#0" />
-                <element signature="e#97986#98017#0" />
-                <element signature="e#98021#98266#0" />
-                <element signature="e#98279#98364#0" />
-                <element signature="e#98378#98445#0" />
-                <element signature="e#98458#98543#0" />
-                <element signature="e#98553#98676#0" />
-                <element signature="e#98694#98716#0" />
-                <element signature="e#99696#99778#0" />
-                <element signature="e#100561#100633#0" />
-                <element signature="e#100960#100985#0" />
-                <element signature="e#101478#101548#0" />
-                <element signature="e#101809#101833#0" />
-                <element signature="e#101896#101933#0" />
-                <element signature="e#102041#102171#0" />
-                <element signature="e#102824#102985#0" />
-                <element signature="e#103090#103125#0" />
-                <element signature="e#103206#103241#0" />
-                <element signature="e#103797#103918#0" />
-                <element signature="e#103923#103984#0" />
-                <element signature="e#103990#104015#0" />
-                <element signature="e#104020#104462#0" />
-                <element signature="e#105055#105078#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1890">
-              <caret line="70" column="71" selection-start-line="70" selection-start-column="71" selection-end-line="70" selection-end-column="71" />
+            <state relative-caret-position="9153">
+              <caret line="339" selection-start-line="339" selection-end-line="342" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>style</find>
-      <find>Caption</find>
-      <find>desk</find>
-      <find>mobile</find>
+      <find>.wrapper</find>
+      <find>h1</find>
+      <find>restor</find>
+      <find>Quick Video Tour</find>
+      <find>.contact_info</find>
+      <find>rest</find>
+      <find>header</find>
+      <find>logo</find>
+      <find>$</find>
+      <find>beauty_salon</find>
+      <find>box-to</find>
+      <find>Click</find>
+      <find>Ex quem dicta delicata usu, zril vocibus maiestatis in qui.</find>
+      <find>LOOKING FORWARD TO A LONG TERM ASSOCIATION?</find>
+      <find>Click For The Demo</find>
+      <find>Support</find>
+      <find>suppo</find>
+      <find>who can use</find>
+      <find>Wh</find>
+      <find>Feau</find>
+      <find>LOOKIN</find>
+      <find>expen</find>
+      <find>className=&quot;privacy-content&quot;</find>
+      <find>Freq</find>
+      <find>mobile a</find>
+      <find>Mob</find>
+      <find>Reduce</find>
+      <find>Contact</find>
+      <find>.wra</find>
+      <find>sale</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -469,10 +365,48 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/sass/style.scss" />
-        <option value="$PROJECT_DIR$/public/index.html" />
-        <option value="$PROJECT_DIR$/src/css/app-custome.scss" />
+        <option value="$PROJECT_DIR$/src/js/main.js" />
+        <option value="$PROJECT_DIR$/public/js/main.js" />
+        <option value="$PROJECT_DIR$/src/components/calendar-feature-details/calendar-feature-details.js" />
+        <option value="$PROJECT_DIR$/src/components/customer-management-feature-details/customer-feature-details.js" />
+        <option value="$PROJECT_DIR$/src/css/feature-details.scss" />
+        <option value="$PROJECT_DIR$/src/components/support/Support.js" />
+        <option value="$PROJECT_DIR$/src/components/common/BigHeader.js" />
+        <option value="$PROJECT_DIR$/src/components/common/SmallHeader.js" />
+        <option value="$PROJECT_DIR$/src/sass/_mixin.scss" />
+        <option value="$PROJECT_DIR$/src/sass/_variables.scss" />
+        <option value="$PROJECT_DIR$/src/components/common/Feature.js" />
         <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/css/contact.scss" />
+        <option value="$PROJECT_DIR$/src/components/common/FeatureDetail.js" />
+        <option value="$PROJECT_DIR$/src/components/beauty-salon/beautysalon.scss.css" />
+        <option value="$PROJECT_DIR$/src/components/common/Alert.js" />
+        <option value="$PROJECT_DIR$/src/components/common/FeatureDetailRight.js" />
+        <option value="$PROJECT_DIR$/src/components/common/FeatureDetailLeft.js" />
+        <option value="$PROJECT_DIR$/src/components/common/MFeatureDetailRight.js" />
+        <option value="$PROJECT_DIR$/src/components/common/MFeatureDetailLeft.js" />
+        <option value="$PROJECT_DIR$/src/components/spa-and-massage/spa-and-massage.scss" />
+        <option value="$PROJECT_DIR$/src/css/landing.scss" />
+        <option value="$PROJECT_DIR$/src/components/contact/Contact.js" />
+        <option value="$PROJECT_DIR$/src/components/layout/Footer.js" />
+        <option value="$PROJECT_DIR$/src/components/beauty-salon/beautysalon.scss" />
+        <option value="$PROJECT_DIR$/src/components/terms-and-conditions/TermsAndConditions.js" />
+        <option value="$PROJECT_DIR$/src/components/privacy-policy/PrivacyPolicy.js" />
+        <option value="$PROJECT_DIR$/src/components/beauty-salon/Beautysalon.js" />
+        <option value="$PROJECT_DIR$/src/components/barber/Barber.js" />
+        <option value="$PROJECT_DIR$/src/components/spa-and-massage/SpaMassage.js" />
+        <option value="$PROJECT_DIR$/src/components/skin-care/SkinCare.js" />
+        <option value="$PROJECT_DIR$/src/components/pos-feature-details/PosFeatureDetails.js" />
+        <option value="$PROJECT_DIR$/src/components/automated-sms-marketing/AutoSmsMaretingFeatureDetails.js" />
+        <option value="$PROJECT_DIR$/src/components/notification-feature-details/NotificationFeatureDetails.js" />
+        <option value="$PROJECT_DIR$/src/components/customer-management-feature-details/CustomerFeatureDetails.js" />
+        <option value="$PROJECT_DIR$/src/components/sales-report-feature-details/SalesReportFeatureDetails.js" />
+        <option value="$PROJECT_DIR$/src/components/calendar-feature-details/CalendarFeatureDetails.js" />
+        <option value="$PROJECT_DIR$/src/components/layout/Landing.js" />
+        <option value="$PROJECT_DIR$/src/sass/style.scss" />
+        <option value="$PROJECT_DIR$/src/css/app-custome.scss" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/components/layout/Navbar.js" />
       </list>
     </option>
   </component>
@@ -496,9 +430,9 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="738" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -512,18 +446,127 @@
         <subPane>
           <expand>
             <path>
-              <item name="panagea-react" type="b2602c69:ProjectViewProjectNode" />
-              <item name="panagea-react" type="462c0819:PsiDirectoryNode" />
+              <item name="react-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-practice" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="panagea-react" type="b2602c69:ProjectViewProjectNode" />
-              <item name="panagea-react" type="462c0819:PsiDirectoryNode" />
+              <item name="react-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-practice" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="panagea-react" type="b2602c69:ProjectViewProjectNode" />
-              <item name="panagea-react" type="462c0819:PsiDirectoryNode" />
+              <item name="react-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="automated-sms-marketing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="beauty-salon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="calendar-feature-details" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="customer-management-feature-details" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="notification-feature-details" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="sales-report-feature-details" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="skin-care" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="spa-and-massage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="features-details-images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="features-details-images" type="462c0819:PsiDirectoryNode" />
+              <item name="send-notification" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -533,30 +576,32 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="app&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/css/app-custome.scss&#10;Land&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/components/layout/Landing.js&#10;Navb&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/components/layout/Navbar.js&#10;sty&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/sass/style.scss&#10;small&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/components/common/SmallHeader.js&#10;SendNoti&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/img/features-details-images/send-notification&#10;Pos&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/components/pos-feature-details/PosFeatureDetails.js&#10;Navbar&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/components/layout/Navbar.js&#10;app-c&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/css/app-custome.scss&#10;Priva&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/components/privacy-policy/PrivacyPolicy.js&#10;Ter&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/components/terms-and-conditions/TermsAndConditions.js&#10;Barb&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/components/barber/Barber.js&#10;Foo&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/components/layout/Footer.js&#10;Contact&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/components/contact/Contact.js&#10;cus&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/css/app-custome.scss&#10;Calendar&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/components/calendar-feature-details/CalendarFeatureDetails.js&#10;bea&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/components/beauty-salon/beautysalon.scss&#10;Beauty&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/components/beauty-salon/Beautysalon.js&#10;auto&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/components/automated-sms-marketing/AutoSmsMaretingFeatureDetails.js&#10;style&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/sass/style.scss&#10;foot&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/components/layout/Footer.js&#10;Calend&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/components/calendar-feature-details/CalendarFeatureDetails.js&#10;Calenda&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/components/calendar-feature-details/CalendarFeatureDetails.js&#10;App.j&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/App.js&#10;App&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/css/app-custome.scss&#10;Nav&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/components/layout/Navbar.js&#10;Skin&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/components/skin-care/SkinCare.js&#10;Barber&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/components/barber/Barber.js&#10;st&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/sass/style.scss&#10;App.js&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/App.js&#10;Spa&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/components/spa-and-massage/SpaMassage.js&#10;Landing&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/components/layout/Landing.js&#10;Beau&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/components/beauty-salon/Beautysalon.js&#10;Landi&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/components/layout/Landing.js&#10;Footer&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/components/layout/Footer.js&#10;Sales&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/components/sales-report-feature-details/SalesReportFeatureDetails.js&#10;Cus&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/components/customer-management-feature-details/CustomerFeatureDetails.js&#10;Automa&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/components/automated-sms-marketing/AutoSmsMaretingFeatureDetails.js&#10;Na&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/components/layout/Navbar.js&#10;NavBa&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/components/layout/Navbar.js&#10;navba&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/components/layout/Navbar.js&#10;App js&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/App.js&#10;Foot&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/components/layout/Footer.js&#10;Notifi&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/src/components/notification-feature-details/NotificationFeatureDetails.js&#10;pack&#9;FILE&#9;file://C:/Users/Mox/Desktop/react-practice/package.json" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.standard" value="project" />
-    <property name="node.js.selected.package.eslint" value="E:\panagea-react\node_modules\eslint" />
-    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.path.for.package.eslint" value="C:/Program Files/nodejs/node" />
+    <property name="node.js.path.for.package.standard" value="C:/Program Files/nodejs/node" />
+    <property name="node.js.selected.package.eslint" value="C:\Users\Mox\Desktop\react-practice\node_modules\eslint" />
+    <property name="node.js.selected.package.standard" value="C:\Users\Mox\Desktop\react-practice\node_modules\eslint" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\panagea-react\src\js" />
-      <recent name="E:\panagea-react\src" />
-      <recent name="E:\panagea-react\src\sass" />
-      <recent name="E:\panagea-react\public\css" />
-      <recent name="E:\panagea-react\src\scss" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\panagea-react\src" />
       <recent name="E:\panagea-react\src\css" />
       <recent name="E:\panagea-react\public\favicons" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mox\Desktop\react-practice\src\img" />
+      <recent name="C:\Users\Mox\Desktop\react-practice\src\components\spa-and-massage" />
+      <recent name="C:\Users\Mox\Desktop\react-practice\src\components\common" />
+      <recent name="C:\Users\Mox\Desktop\react-practice\src\img\who can use" />
+      <recent name="C:\Users\Mox\Desktop\react-practice\public\favicons" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -588,17 +633,81 @@
       <workItem from="1544502870158" duration="4576000" />
       <workItem from="1544589854327" duration="2574000" />
       <workItem from="1544683331414" duration="619000" />
+      <workItem from="1544719462684" duration="885000" />
+      <workItem from="1544893559950" duration="905000" />
+      <workItem from="1544894990554" duration="801000" />
+      <workItem from="1544897825449" duration="2012000" />
+      <workItem from="1544958105215" duration="12023000" />
+      <workItem from="1545058132712" duration="11430000" />
+      <workItem from="1545148495070" duration="3325000" />
+      <workItem from="1545156433543" duration="1327000" />
+      <workItem from="1545158434925" duration="536000" />
+      <workItem from="1545234916985" duration="70000" />
+      <workItem from="1545238569751" duration="6853000" />
+      <workItem from="1545322306367" duration="6090000" />
+      <workItem from="1545334332241" duration="241000" />
+      <workItem from="1545424570026" duration="952000" />
+      <workItem from="1545495548687" duration="6019000" />
+      <workItem from="1545543650058" duration="3626000" />
+      <workItem from="1545579901834" duration="3713000" />
+      <workItem from="1545663864050" duration="6891000" />
+      <workItem from="1545674929951" duration="1697000" />
+      <workItem from="1545677815523" duration="3499000" />
+      <workItem from="1545755402249" duration="138000" />
+      <workItem from="1546100041076" duration="12907000" />
+      <workItem from="1546150257913" duration="52000" />
+      <workItem from="1546441997869" duration="1260000" />
+      <workItem from="1546533950138" duration="23000" />
+      <workItem from="1546540359286" duration="1239000" />
+      <workItem from="1546619258325" duration="8772000" />
+      <workItem from="1546699520266" duration="5685000" />
+      <workItem from="1546711821417" duration="1422000" />
+      <workItem from="1546969397372" duration="1445000" />
+      <workItem from="1547053053286" duration="51000" />
+      <workItem from="1547330873594" duration="1836000" />
+      <workItem from="1547354453631" duration="44000" />
+      <workItem from="1547402036550" duration="3930000" />
+      <workItem from="1547440151662" duration="93000" />
+      <workItem from="1547445605743" duration="18000" />
+      <workItem from="1547464918664" duration="98000" />
+      <workItem from="1547566551219" duration="4758000" />
+      <workItem from="1547574965543" duration="3059000" />
+      <workItem from="1547579351464" duration="1439000" />
+      <workItem from="1547658755495" duration="6233000" />
+      <workItem from="1547740361709" duration="60000" />
+      <workItem from="1547745788077" duration="5896000" />
+      <workItem from="1547828584141" duration="7251000" />
+      <workItem from="1547911370357" duration="5467000" />
+      <workItem from="1547919921186" duration="9045000" />
+      <workItem from="1547995107671" duration="347000" />
+      <workItem from="1548001503697" duration="6383000" />
+      <workItem from="1548090075411" duration="5189000" />
+      <workItem from="1548173470381" duration="6918000" />
+      <workItem from="1548256012781" duration="10759000" />
+      <workItem from="1548342332282" duration="9758000" />
+      <workItem from="1548431802769" duration="27000" />
+      <workItem from="1548437574249" duration="2847000" />
+      <workItem from="1548489263576" duration="4950000" />
+      <workItem from="1548528199437" duration="1706000" />
+      <workItem from="1548573006647" duration="44000" />
+      <workItem from="1548608353756" duration="1441000" />
+      <workItem from="1548693081495" duration="3032000" />
+      <workItem from="1548779051990" duration="634000" />
+      <workItem from="1548949825721" duration="607000" />
+      <workItem from="1548960071781" duration="25000" />
+      <workItem from="1549179248502" duration="2887000" />
+      <workItem from="1549183800168" duration="17000" />
+      <workItem from="1549196854841" duration="479000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27824000" />
+    <option name="totallyTimeSpent" value="240990000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12100213" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.204236" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -612,13 +721,35 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.12934947" side_tool="true" weight="0.3287037" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.87065053" visible="true" weight="0.12037037" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18835099" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32947367" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.12934947" side_tool="true" weight="0.3287037" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.87065053" weight="0.3287037" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -627,421 +758,310 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/public/favicons/apple-touch-icon-57x57-precomposed.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/favicons/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/common/BigHeader.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        <state relative-caret-position="189">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/img/who can use/beauty-min.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/layerslider/js/jquery.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/contact.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/color-beige.scss" />
-    <entry file="file://$PROJECT_DIR$/public/css/vendors.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/icon_fonts/css/all_icons.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/wow.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/main.js">
+    <entry file="file://$PROJECT_DIR$/src/components/support/Support.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1296" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/layerslider/js/jquery.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/embed.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/nuka-carousel/es/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+        <state relative-caret-position="189">
+          <caret line="8" column="5" lean-forward="true" selection-end-line="27" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4077">
-          <caret line="189" column="32" lean-forward="true" selection-start-line="189" selection-start-column="32" selection-end-line="189" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="324">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/react-rev-slider/lib/ReactRevSlider.js">
+    <entry file="file://$PROJECT_DIR$/src/css/contact.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2646">
-          <caret line="98" column="21" selection-start-line="98" selection-start-column="14" selection-end-line="98" selection-end-column="21" />
+        <state relative-caret-position="27">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/app-custome.scss">
+    <entry file="file://$PROJECT_DIR$/src/img/calendar.gif" />
+    <entry file="file://$PROJECT_DIR$/src/img/oneplus.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/common/Spinner.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        <state relative-caret-position="351">
+          <caret line="13" column="2" lean-forward="true" selection-end-line="14" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/common/Alert.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/Quick_Checkout_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/LAN.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/Appointment_Option_menu.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/Multiple_Service_Provider_Selection.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/common/FeatureDetailRight.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/common/MFeatureDetailRight.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/common/FeatureDetailLeft.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/common/MFeatureDetailLeft.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/bg_call_section.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/spa-and-massage/spa-and-massage.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="5153" column="21" selection-start-line="5153" selection-start-column="20" selection-end-line="5153" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/color-violet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3591">
+          <caret line="133" selection-start-line="133" selection-end-line="133" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/beauty_min_blur.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sass/_mixin.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6750">
-          <caret line="250" column="14" selection-start-line="250" selection-start-column="7" selection-end-line="250" selection-end-column="14" />
+        <state relative-caret-position="7398">
+          <caret line="274" column="28" selection-start-line="274" selection-start-column="28" selection-end-line="274" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/landing.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/contact/Contact.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2646">
+          <caret line="106" column="40" selection-start-line="106" selection-start-column="40" selection-end-line="106" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/layout/Footer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="26" column="53" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/common/Feature.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/beauty-salon/beautysalon.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/terms-and-conditions/TermsAndConditions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/privacy-policy/PrivacyPolicy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="2" column="48" lean-forward="true" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/skin-care/SkinCare.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="32" column="74" selection-start-line="32" selection-start-column="74" selection-end-line="32" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/spa-and-massage/SpaMassage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="32" column="78" selection-start-line="32" selection-start-column="78" selection-end-line="32" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/barber/Barber.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="31" column="71" selection-start-line="31" selection-start-column="71" selection-end-line="31" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/beauty-salon/Beautysalon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="35" column="71" selection-start-line="35" selection-start-column="71" selection-end-line="35" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/tab_a.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/automated-sms-marketing/AutoSmsMaretingFeatureDetails.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="34" column="97" selection-start-line="34" selection-start-column="97" selection-end-line="34" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/notification-feature-details/NotificationFeatureDetails.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="42" column="93" selection-start-line="42" selection-start-column="93" selection-end-line="42" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/pos-feature-details/PosFeatureDetails.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="33" column="97" selection-start-line="33" selection-start-column="97" selection-end-line="33" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/report_banner_mobile.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sass/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7992">
+          <caret line="296" column="24" selection-start-line="296" selection-start-column="24" selection-end-line="296" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/sales-report-feature-details/SalesReportFeatureDetails.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="31" column="76" selection-start-line="31" selection-start-column="76" selection-end-line="31" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/customer-management-feature-details/CustomerFeatureDetails.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="37" column="88" selection-start-line="37" selection-start-column="88" selection-end-line="37" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/calendar-feature-details/CalendarFeatureDetails.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="50" column="88" selection-start-line="50" selection-start-column="88" selection-end-line="50" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/layout/Landing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4347">
+          <caret line="188" selection-start-line="188" selection-end-line="189" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sass/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+        <state relative-caret-position="189">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sass/style.scss">
+    <entry file="file://$PROJECT_DIR$/src/components/common/SmallHeader.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5859">
-          <caret line="390" column="8" selection-start-line="390" selection-start-column="8" selection-end-line="390" selection-end-column="46" />
-          <folding>
-            <element signature="e#1127#1160#0" />
-            <element signature="e#1181#1213#0" />
-            <element signature="e#1234#1266#0" />
-            <element signature="e#1291#1669#0" />
-            <element signature="e#1718#1861#0" />
-            <element signature="e#1899#1983#0" />
-            <element signature="e#2016#3022#0" />
-            <element signature="e#3050#3304#0" />
-            <element signature="e#3326#3610#0" />
-            <element signature="e#3686#3765#0" />
-            <element signature="e#3863#3922#0" />
-            <element signature="e#3932#4048#0" />
-            <element signature="e#4341#4374#0" />
-            <element signature="e#4381#4431#0" />
-            <element signature="e#4628#4660#0" />
-            <element signature="e#4671#4695#0" />
-            <element signature="e#4708#4749#0" />
-            <element signature="e#4766#4873#0" />
-            <element signature="e#5692#5718#0" />
-            <element signature="e#5725#5756#0" />
-            <element signature="e#5789#5815#0" />
-            <element signature="e#5822#5853#0" />
-            <element signature="e#5884#5910#0" />
-            <element signature="e#5917#5948#0" />
-            <element signature="e#5976#6002#0" />
-            <element signature="e#6009#6040#0" />
-            <element signature="e#7476#7674#0" />
-            <element signature="e#7783#7853#0" />
-            <element signature="e#7858#7928#0" />
-            <element signature="e#7932#8048#0" />
-            <element signature="e#8074#8241#0" />
-            <element signature="e#8332#8429#0" />
-            <element signature="e#8433#8504#0" />
-            <element signature="e#9404#9641#0" />
-            <element signature="e#9652#9705#0" />
-            <element signature="e#9717#9763#0" />
-            <element signature="e#9775#9966#0" />
-            <element signature="e#10582#10605#0" />
-            <element signature="e#10615#10716#0" />
-            <element signature="e#11406#11441#0" />
-            <element signature="e#11452#11790#0" />
-            <element signature="e#11900#11931#0" />
-            <element signature="e#11936#13925#0" />
-            <element signature="e#14434#14655#0" />
-            <element signature="e#14660#15262#0" />
-            <element signature="e#15448#15615#0" />
-            <element signature="e#15779#15948#0" />
-            <element signature="e#15958#16127#0" />
-            <element signature="e#16138#16307#0" />
-            <element signature="e#16323#16492#0" />
-            <element signature="e#16509#16750#0" />
-            <element signature="e#16768#17010#0" />
-            <element signature="e#17033#17280#0" />
-            <element signature="e#17293#17462#0" />
-            <element signature="e#17473#17653#0" />
-            <element signature="e#17664#18261#0" />
-            <element signature="e#18276#18560#0" />
-            <element signature="e#18606#18627#0" />
-            <element signature="e#18635#18692#0" />
-            <element signature="e#19023#19142#0" />
-            <element signature="e#19147#19819#0" />
-            <element signature="e#19847#19975#0" />
-            <element signature="e#20029#20055#0" />
-            <element signature="e#20065#20162#0" />
-            <element signature="e#20167#20210#0" />
-            <element signature="e#20224#20250#0" />
-            <element signature="e#20272#20481#0" />
-            <element signature="e#20504#20861#0" />
-            <element signature="e#20935#20954#0" />
-            <element signature="e#20959#21272#0" />
-            <element signature="e#21350#21459#0" />
-            <element signature="e#21665#22010#0" />
-            <element signature="e#22236#22374#0" />
-            <element signature="e#22396#22532#0" />
-            <element signature="e#22541#22955#0" />
-            <element signature="e#28521#28567#0" />
-            <element signature="e#30267#30302#0" />
-            <element signature="e#30314#30810#0" />
-            <element signature="e#34163#35639#0" />
-            <element signature="e#36173#36777#0" />
-            <element signature="e#37075#37204#0" />
-            <element signature="e#37220#37244#0" />
-            <element signature="e#37456#37636#0" />
-            <element signature="e#37647#38201#0" />
-            <element signature="e#38240#38903#0" />
-            <element signature="e#39018#39037#0" />
-            <element signature="e#39053#39289#0" />
-            <element signature="e#39312#39804#0" />
-            <element signature="e#39984#40038#0" />
-            <element signature="e#40046#40336#0" />
-            <element signature="e#40345#40366#0" />
-            <element signature="e#40390#40432#0" />
-            <element signature="e#40446#40510#0" />
-            <element signature="e#40514#40845#0" />
-            <element signature="e#40868#41297#0" />
-            <element signature="e#41307#41473#0" />
-            <element signature="e#41485#41882#0" />
-            <element signature="e#41990#42067#0" />
-            <element signature="e#42071#42390#0" />
-            <element signature="e#42465#43116#0" />
-            <element signature="e#43265#43572#0" />
-            <element signature="e#43580#43695#0" />
-            <element signature="e#44474#44506#0" />
-            <element signature="e#44511#44545#0" />
-            <element signature="e#44647#44669#0" />
-            <element signature="e#45695#45741#0" />
-            <element signature="e#45750#46537#0" />
-            <element signature="e#46542#46636#0" />
-            <element signature="e#46646#46781#0" />
-            <element signature="e#46786#47170#0" />
-            <element signature="e#47234#47670#0" />
-            <element signature="e#47679#48315#0" />
-            <element signature="e#48336#48373#0" />
-            <element signature="e#48856#48951#0" />
-            <element signature="e#48955#49028#0" />
-            <element signature="e#49033#49064#0" />
-            <element signature="e#49116#49143#0" />
-            <element signature="e#49151#49652#0" />
-            <element signature="e#50347#50351#0" />
-            <element signature="e#50356#50689#0" />
-            <element signature="e#50709#50859#0" />
-            <element signature="e#50866#51119#0" />
-            <element signature="e#51324#51428#0" />
-            <element signature="e#51440#51952#0" />
-            <element signature="e#51961#53163#0" />
-            <element signature="e#53174#53252#0" />
-            <element signature="e#53257#53486#0" />
-            <element signature="e#53505#53549#0" />
-            <element signature="e#53585#53608#0" />
-            <element signature="e#53612#53637#0" />
-            <element signature="e#53835#54347#0" />
-            <element signature="e#54356#55986#0" />
-            <element signature="e#55997#56265#0" />
-            <element signature="e#56273#56341#0" />
-            <element signature="e#56346#56605#0" />
-            <element signature="e#56636#57022#0" />
-            <element signature="e#57137#57246#0" />
-            <element signature="e#57359#57565#0" />
-            <element signature="e#57573#58105#0" />
-            <element signature="e#58243#58341#0" />
-            <element signature="e#58483#58699#0" />
-            <element signature="e#58725#58865#0" />
-            <element signature="e#58873#59084#0" />
-            <element signature="e#59248#59302#0" />
-            <element signature="e#59307#59363#0" />
-            <element signature="e#59367#59406#0" />
-            <element signature="e#59417#59441#0" />
-            <element signature="e#59592#59647#0" />
-            <element signature="e#59652#60019#0" />
-            <element signature="e#60041#60079#0" />
-            <element signature="e#60088#60278#0" />
-            <element signature="e#60390#60421#0" />
-            <element signature="e#60426#60457#0" />
-            <element signature="e#60462#60493#0" />
-            <element signature="e#60698#60725#0" />
-            <element signature="e#60734#60817#0" />
-            <element signature="e#60822#60886#0" />
-            <element signature="e#60922#60949#0" />
-            <element signature="e#60965#60999#0" />
-            <element signature="e#61013#61150#0" />
-            <element signature="e#61163#61433#0" />
-            <element signature="e#61448#61571#0" />
-            <element signature="e#61583#61674#0" />
-            <element signature="e#61846#62171#0" />
-            <element signature="e#62176#62232#0" />
-            <element signature="e#62237#62330#0" />
-            <element signature="e#62339#62977#0" />
-            <element signature="e#62999#63114#0" />
-            <element signature="e#63123#63144#0" />
-            <element signature="e#63161#63436#0" />
-            <element signature="e#63460#63502#0" />
-            <element signature="e#63524#63674#0" />
-            <element signature="e#63688#64058#0" />
-            <element signature="e#66081#66105#0" />
-            <element signature="e#66173#66194#0" />
-            <element signature="e#66230#66294#0" />
-            <element signature="e#66335#66359#0" />
-            <element signature="e#66396#66438#0" />
-            <element signature="e#66481#66595#0" />
-            <element signature="e#66653#66724#0" />
-            <element signature="e#66760#66843#0" />
-            <element signature="e#66983#67086#0" />
-            <element signature="e#67143#67176#0" />
-            <element signature="e#67185#67218#0" />
-            <element signature="e#67227#67260#0" />
-            <element signature="e#67265#67307#0" />
-            <element signature="e#67674#67892#0" />
-            <element signature="e#67900#68611#0" />
-            <element signature="e#68802#68930#0" />
-            <element signature="e#69197#69265#0" />
-            <element signature="e#69302#69451#0" />
-            <element signature="e#69464#69535#0" />
-            <element signature="e#69546#69631#0" />
-            <element signature="e#69644#69715#0" />
-            <element signature="e#69921#69995#0" />
-            <element signature="e#70013#70081#0" />
-            <element signature="e#70094#70168#0" />
-            <element signature="e#70183#70257#0" />
-            <element signature="e#70275#70349#0" />
-            <element signature="e#70662#70721#0" />
-            <element signature="e#70734#70946#0" />
-            <element signature="e#71605#71626#0" />
-            <element signature="e#71726#71895#0" />
-            <element signature="e#72257#72318#0" />
-            <element signature="e#72323#72431#0" />
-            <element signature="e#72436#72507#0" />
-            <element signature="e#72514#72705#0" />
-            <element signature="e#72714#72984#0" />
-            <element signature="e#73371#73395#0" />
-            <element signature="e#73667#73688#0" />
-            <element signature="e#74792#74832#0" />
-            <element signature="e#74838#74879#0" />
-            <element signature="e#75120#75586#0" />
-            <element signature="e#75927#76160#0" />
-            <element signature="e#76164#76247#0" />
-            <element signature="e#76265#76300#0" />
-            <element signature="e#76387#76535#0" />
-            <element signature="e#76558#76874#0" />
-            <element signature="e#77061#77117#0" />
-            <element signature="e#77188#78523#0" />
-            <element signature="e#78854#78878#0" />
-            <element signature="e#79135#79170#0" />
-            <element signature="e#79198#79257#0" />
-            <element signature="e#79279#79309#0" />
-            <element signature="e#79331#79560#0" />
-            <element signature="e#79581#79726#0" />
-            <element signature="e#79770#79793#0" />
-            <element signature="e#79837#79864#0" />
-            <element signature="e#79908#79932#0" />
-            <element signature="e#79976#80002#0" />
-            <element signature="e#80015#80050#0" />
-            <element signature="e#80186#80221#0" />
-            <element signature="e#80562#80586#0" />
-            <element signature="e#80697#80756#0" />
-            <element signature="e#80919#81275#0" />
-            <element signature="e#81279#81373#0" />
-            <element signature="e#81664#81681#0" />
-            <element signature="e#81766#81785#0" />
-            <element signature="e#81789#81850#0" />
-            <element signature="e#81892#81929#0" />
-            <element signature="e#81937#81961#0" />
-            <element signature="e#81995#82125#0" />
-            <element signature="e#82243#82294#0" />
-            <element signature="e#82327#82390#0" />
-            <element signature="e#82406#82432#0" />
-            <element signature="e#82561#83945#0" />
-            <element signature="e#83980#84059#0" />
-            <element signature="e#84070#84121#0" />
-            <element signature="e#84135#84235#0" />
-            <element signature="e#84252#84352#0" />
-            <element signature="e#84640#85184#0" />
-            <element signature="e#85554#85600#0" />
-            <element signature="e#85604#85824#0" />
-            <element signature="e#85829#85860#0" />
-            <element signature="e#85885#86395#0" />
-            <element signature="e#86459#86675#0" />
-            <element signature="e#87435#87604#0" />
-            <element signature="e#87834#87865#0" />
-            <element signature="e#87869#87958#0" />
-            <element signature="e#87998#88279#0" />
-            <element signature="e#88288#88309#0" />
-            <element signature="e#88410#89168#0" />
-            <element signature="e#90279#90327#0" />
-            <element signature="e#90348#90387#0" />
-            <element signature="e#90409#90772#0" />
-            <element signature="e#90783#90968#0" />
-            <element signature="e#90982#91143#0" />
-            <element signature="e#91169#91262#0" />
-            <element signature="e#91273#91348#0" />
-            <element signature="e#91359#91636#0" />
-            <element signature="e#91668#92238#0" />
-            <element signature="e#92249#92775#0" />
-            <element signature="e#92870#92894#0" />
-            <element signature="e#92904#92949#0" />
-            <element signature="e#93236#93409#0" />
-            <element signature="e#93419#93453#0" />
-            <element signature="e#93514#93726#0" />
-            <element signature="e#93739#93764#0" />
-            <element signature="e#93782#93987#0" />
-            <element signature="e#94160#94396#0" />
-            <element signature="e#94476#94729#0" />
-            <element signature="e#96778#96894#0" />
-            <element signature="e#96912#97028#0" />
-            <element signature="e#97336#97382#0" />
-            <element signature="e#97388#97430#0" />
-            <element signature="e#97437#97482#0" />
-            <element signature="e#97524#97570#0" />
-            <element signature="e#97576#97618#0" />
-            <element signature="e#97625#97670#0" />
-            <element signature="e#97699#97717#0" />
-            <element signature="e#97722#97740#0" />
-            <element signature="e#97986#98017#0" />
-            <element signature="e#98021#98266#0" />
-            <element signature="e#98279#98364#0" />
-            <element signature="e#98378#98445#0" />
-            <element signature="e#98458#98543#0" />
-            <element signature="e#98553#98676#0" />
-            <element signature="e#98694#98716#0" />
-            <element signature="e#99696#99778#0" />
-            <element signature="e#100561#100633#0" />
-            <element signature="e#100960#100985#0" />
-            <element signature="e#101478#101548#0" />
-            <element signature="e#101809#101833#0" />
-            <element signature="e#101896#101933#0" />
-            <element signature="e#102041#102171#0" />
-            <element signature="e#102824#102985#0" />
-            <element signature="e#103090#103125#0" />
-            <element signature="e#103206#103241#0" />
-            <element signature="e#103797#103918#0" />
-            <element signature="e#103923#103984#0" />
-            <element signature="e#103990#104015#0" />
-            <element signature="e#104020#104462#0" />
-            <element signature="e#105055#105078#0" />
-          </folding>
+        <state relative-caret-position="297">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1890">
-          <caret line="70" column="71" selection-start-line="70" selection-start-column="71" selection-end-line="70" selection-end-column="71" />
+        <state relative-caret-position="350">
+          <caret line="85" column="28" selection-start-line="85" selection-start-column="28" selection-end-line="85" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/app-custome.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9153">
+          <caret line="339" selection-start-line="339" selection-end-line="342" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/layout/Navbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="110" lean-forward="true" selection-start-line="110" selection-end-line="110" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+            <element signature="n#Navbar#0" />
+          </folding>
         </state>
       </provider>
     </entry>

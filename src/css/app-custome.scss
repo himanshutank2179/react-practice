@@ -1,5 +1,6 @@
 @import '../sass/variables';
 @import '../sass/mixin';
+@import "../../node_modules/react-modal-video/scss/modal-video.scss";
 
 #layerslider {
   width: 100%;
@@ -24,37 +25,321 @@ button:focus {
   outline: none;
 }
 
+.tp-bullets {
+  display: none;
+}
+
 .banner-image {
   z-index: 1;
   white-space: nowrap;
-  width: 100%;
+  width: 60%;
   text-align: right;
-  left: 0 !important;
-  top: 25px !important;
+  right: 2em !important;
+  top: 7em !important;
+  left: auto !important;
+  img {
+    width: 100%;
+    height: auto;
+  }
+  @include tablet {
+    text-align: center;
+    z-index: 1;
+    width: 100%;
+    top: 01em !important;
+    left: 0 !important;
+    img {
+      width: 60% !important;
+      height: auto !important;
+    }
+  }
+  @include mobile {
+    text-align: center;
+    z-index: 1;
+    width: 100%;
+    top: 0.5em !important;
+    left: 0 !important;
+    img {
+      width: 80% !important;
+      height: auto !important;
+    }
+  }
+  @include extra-small-mobile {
+    text-align: center;
+    z-index: 1;
+    width: 100%;
+    top: 0.5em !important;
+    left: 0 !important;
+    img {
+      width: 80% !important;
+      height: auto !important;
+    }
+  }
+}
+
+.forcefullwidth_wrapper_tp_banner {
+  @include extra-small-mobile {
+    margin-bottom: 2em !important;
+  }
 }
 
 .banner-main-header {
-  background: green;
-  @include desktop {
-    background: yellow
+  text-align: center;
+  h2 {
+    color: #000000;
   }
+  p {
+    color: #000000;
+  }
+  top: 30% !important;
+  width: 40%;
+  left: 0 !important;
+
   @include tablet {
-    background: purple;
     text-align: center;
-    left: 6% !important;
+    width: 100%;
+    bottom: 0 !important;
+    top: 72% !important;
+    h2 {
+      font-size: 25px;
+    }
+    p {
+      font-size: 15px;
+      margin: 0px 0px 1em 0;
+    }
+    a {
+      font-size: 15px;
+    }
   }
   @include mobile {
-    background: red;
-  }
-  @include extra-small-mobile {
-    background: white;
-    text-align: center;
-    left: 6% !important;
     h2 {
       font-size: 20px;
     }
   }
+  @include extra-small-mobile {
+    text-align: center;
+    width: 100%;
+    bottom: 0 !important;
+    top: 70% !important;
+    p {
+      font-size: 15px;
+      line-height: 0;
+      margin: 0px 0px 1em 0;
+    }
+    a {
+      font-size: 13px;
+      padding: 10px 30px;
+    }
 
-  top: 30% !important;
+  }
 }
+
+.tab-img {
+  margin: 0 0 20px 0;
+  @include desktop {
+    //background: yellow;
+    width: 700px;
+    height: auto;
+  }
+
+}
+
+.tp-banner {
+  @include tablet {
+    height: 450px !important;
+  }
+  @include mobile {
+    height: 350px !important;
+  }
+  @include extra-small-mobile {
+    height: 350px !important;
+  }
+}
+
+.feature-read-more {
+  color: #32a067;
+  text-align: right;
+}
+
+.overflow-hidden {
+  overflow: hidden;
+}
+
+.sticky > #menu > ul > li span a.btn-request {
+  border: none;
+  color: #fff;
+  background: #fc5b62;
+  outline: none;
+  cursor: pointer;
+  display: inline-block;
+  text-decoration: none;
+  padding: 15px 30px;
+  font-weight: 600;
+  text-align: center;
+  line-height: 1;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+
+  -webkit-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  border-radius: 3px;
+
+  /*creating round*/
+  -webkit-border-radius: 25px !important;
+  -moz-border-radius: 25px !important;
+  -ms-border-radius: 25px !important;
+  border-radius: 25px !important;
+
+}
+
+.btn-request {
+
+  @include tablet {
+    color: #5abeb5;
+  }
+
+  @include mobile {
+    color: #5abeb5;
+  }
+
+  @include extra-small-mobile {
+    color: #5abeb5;
+  }
+
+}
+
+a.box_topic i {
+  padding: 10px;
+  font-size: 2.75rem !important;
+}
+
+.m-img {
+  width: 75%;
+}
+
+#logo {
+  margin-top: 5px;
+  img {
+    @include extra-small-mobile {
+      margin: 15px 0 0 0;
+    }
+  }
+}
+
+header {
+
+  @include tablet {
+    background: #ffffff;
+    padding: 20px 0 0 30px;
+    position: relative;
+    .navbar-light .navbar-nav .nav-link {
+      color: #fff;
+    }
+  }
+  @include mobile {
+    background: #ffffff;
+    position: relative;
+    .navbar-light .navbar-nav .nav-link {
+      color: #fff;
+    }
+
+  }
+  @include extra-small-mobile {
+    .hamburger-inner, .hamburger-inner::after, .hamburger-inner::before {
+      background-color: #837f7f;
+    }
+    background: #ffffff;
+    position: relative;
+    .navbar-light .navbar-nav .nav-link {
+      color: $color-1;
+    }
+  }
+}
+
+img.playstore-btn {
+  @include extra-small-mobile {
+    width: 100%;
+  }
+
+}
+
+header.header.sticky {
+
+  @include tablet {
+    position: fixed;
+    .navbar-light .navbar-nav .nav-link {
+      color: #000;
+    }
+  }
+  @include mobile {
+    position: fixed;
+    .navbar-light .navbar-nav .nav-link {
+      color: #000;
+    }
+  }
+  @include extra-small-mobile {
+    position: fixed;
+    .navbar-light .navbar-nav .nav-link {
+      color: #000;
+    }
+  }
+}
+
+.index__c-tab--block___3UJ6o {
+  width: 100%;
+}
+
+div#garden-tabs-container-0--container {
+  width: 40%;
+}
+
+iframe {
+  height: 415px;
+  width: 100%;
+}
+
+.index__c-tab__list__item___2_Mo8.index__c-tab__list__item___2_Mo8.index__is-selected___1Hhx1 {
+  color: $color-1 !important;
+}
+
+.index__c-tab--block___3UJ6o {
+  @include mobile {
+    display: list-item !important;
+    .video-container {
+      width: 90%;
+    }
+  }
+  @include extra-small-mobile {
+    display: list-item !important;
+    .video-container {
+      width: 90%;
+    }
+  }
+
+}
+
+.color-white {
+  color: white;
+}
+
+.accordion_2 .card-body {
+  padding: 10px 20px;
+}
+
+.fix-width {
+  width: 55%;
+}
+
+
+.links li a:focus{
+  color: #ffffff;
+}
+div#contentContainer > div:nth-child(4) {
+  background: red;
+  display: none !important;
+}
+
 

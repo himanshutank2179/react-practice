@@ -5155,7 +5155,7 @@ span.infobox_rate {
   float: left;
   width: 33.33%;
   position: relative;
-  padding: 0 20px;
+  padding: 20px 20px;
 }
 .contact_info ul li span {
   opacity: 0.7;

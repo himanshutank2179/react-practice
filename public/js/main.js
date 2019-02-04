@@ -48,20 +48,22 @@
 		}
 	});
 	var $icon = $("#hamburger");
-	var API = $menu.data("mmenu");
+	var API = $menu.data("menu");
 	$icon.on("click", function () {
 		API.open();
 	});
-	API.bind("open:finish", function () {
+	/*API.bind("open:finish", function () {
+        alert('open:finish');
 		setTimeout(function () {
 			$icon.addClass("is-active");
 		}, 100);
 	});
 	API.bind("close:finish", function () {
-		setTimeout(function () {
+        alert('close:finish');
+	    setTimeout(function () {
 			$icon.removeClass("is-active");
 		}, 100);
-	});
+	});*/
 	
 	// WoW - animation on scroll
 	var wow = new WOW(

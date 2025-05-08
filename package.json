@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@zendeskgarden/react-tabs": "^3.3.7",
+    "@zendeskgarden/react-tabs": "^7.0.0",
     "@zendeskgarden/react-theming": "^3.2.1",
     "axios": "^0.18.0",
     "classnames": "^2.2.6",
@@ -18,7 +18,7 @@
     "react-lazy-load-image-component": "^1.1.5",
     "react-modal-video": "^1.2.1",
     "react-rev-slider": "^1.0.1",
-    "react-router-dom": "^4.4.0-beta.6",
+    "react-router-dom": "^6.4.0",
     "react-scripts": "2.1.1",
     "react-wow": "^1.0.0",
     "styled-components": "^4.1.3"
